@@ -1,0 +1,35 @@
+/* Set the background color */
+body {
+    background-color: #0a0c12;
+  }
+  
+  /* Change the color of links */
+  a {
+    color: #42f5f0;
+  }
+  
+  /* Change the color of headings */
+  h1, h2, h3, h4, h5, h6 {
+    color: #b22cff;
+  }
+  
+  /* Change the font family */
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* Add a border to the sidebar */
+  aside {
+    border-right: 1px solid #42f5f0;
+  }
+  
+  /* Change the color of the sidebar links */
+  aside a {
+    color: #42f5f0;
+  }
+  
+  /* Change the font size of the sidebar links */
+  aside li {
+    font-size: 18px;
+  }
+  
